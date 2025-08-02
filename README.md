@@ -2,7 +2,7 @@
 
 A responsive front-end **Spotify Clone** built using only **HTML and CSS**, mimicking the layout and design of the official Spotify web player.
 
-![Preview Screenshot](./Screenshots.png)
+![Preview Screenshot](./Screenshots.PNG)
 
 ---
 
